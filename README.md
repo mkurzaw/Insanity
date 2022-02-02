@@ -14,5 +14,5 @@ ENG
 2. The game file will be downloaded.
 3. Click on this file.
 4. Select the location where you want to install the folder.
-5. Go to name and select the file about sanity_Game.
+5. Go to name and select the file about Insanity_Game.
 6. Have fun.
