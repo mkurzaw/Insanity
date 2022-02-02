@@ -6,7 +6,7 @@ Simple choose your adventure game in psychological-horror style
 3. Kliknij na ten plik. 
 4. Wybierz miejsce w, którym chcesz zainstalować folder.
 5. Przejdź do folderu i wybierz plik o nazwię Insanity_Game.
-6.Miłej zabawy.
+<br/>6.Miłej zabawy.
 
 ENG
 <br/>
